@@ -1,3 +1,13 @@
+% @file "KnapsackProblemBranchGreedyAlgorithm.m"
+% @authors Keung Charteris & T.s.road CZQ
+% @version 1.0 ($Revision$)
+% @date 16/5/2016 $LastChangedDate$
+% @addr. GUET, Gui Lin, 540001,  P.R.China
+% @contact : cztsiang@gmail.com &  t.s.road@bk.ru
+% @date Copyright(c)  2016-2020,  All rights reserved.
+% This is an open access code distributed under the Creative Commons Attribution License, which permits 
+% unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
 %  问题描述：
 %  20个数，分成两组，要求两组数的和的差值最小。
 
