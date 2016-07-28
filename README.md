@@ -1,2 +1,2 @@
 # KnapsackProblemSeries
-有N件物品和一个容量为C的背包。第i件物品的价值是V[i]，重量是W[i]。求解将哪些物品装入背包，使得重量总和不超过背包容量，且价值总和最大。
+The knapsack problem or rucksack problem is a problem in combinatorial optimization: Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible. 
