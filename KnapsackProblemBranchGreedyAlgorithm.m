@@ -1,3 +1,4 @@
+%% KnapsackProblemSeries
 % @file "KnapsackProblemBranchGreedyAlgorithm.m"
 % @authors Keung Charteris & T.s.road CZQ
 % @version 1.0 ($Revision$)
