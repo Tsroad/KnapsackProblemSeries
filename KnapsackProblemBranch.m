@@ -1,3 +1,4 @@
+%% KnapsackProblemSeries
 % @file "KnapsackProblemBranch.m"
 % @authors Keung Charteris & T.s.road CZQ
 % @version 1.0 ($Revision$)
