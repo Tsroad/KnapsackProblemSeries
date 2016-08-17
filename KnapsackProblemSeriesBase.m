@@ -15,7 +15,6 @@
 % 3. 重复2；
 % 4. 找出这些物品。
 
-
 clc;  %清除所有
 clear all;%清除变量
 close all;%关闭图片
@@ -68,7 +67,6 @@ if TransferMatrix(NumberOfObject,FlagTempExternal)==0
         ObjectState(NumberOfObject)=0;
 else
         ObjectState(NumberOfObject)=1;
-        
 end
 
 ObjectState
