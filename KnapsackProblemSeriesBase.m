@@ -63,6 +63,7 @@ for FlagTemp=1:NumberOfObject-1
                 FlagTempExternal=FlagTempExternal-Weight(FlagTemp);
         end
 end
+
 if TransferMatrix(NumberOfObject,FlagTempExternal)==0
         ObjectState(NumberOfObject)=0;
 else
