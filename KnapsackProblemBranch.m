@@ -72,7 +72,6 @@ if TransferMatrix(NumberOfObject,FlagTempExternal)==0
         ObjectState(NumberOfObject)=0;
 else
         ObjectState(NumberOfObject)=1;
-        
 end
 
 for FlagTemp=1:NumberOfObject
