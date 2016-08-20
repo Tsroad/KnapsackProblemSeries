@@ -1,5 +1,5 @@
 %% @authors Keung Charteris & T.s.road CZQ
-% @file "MultidiensionalMumltiplechoiceKnapsackProble.m"
+% @file "MultidiensionalMumltipleKnapsackProblem.m"
 % @version 1.0 ($Revision$)
 % @date 18/8/2016 $LastChangedDate$
 % @addr. GUET, Gui Lin, 540001,  P.R.China
@@ -8,7 +8,7 @@
 % This is an open access code distributed under the Creative Commons Attribution License, which permits 
 % unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
 
-function  MultidiensionalMumltiplechoiceKnapsackProble
+function  MultidiensionalMumltipleKnapsackProblem
 
 % 问题分析
 % 思路：转化为多重多背包问题
