@@ -50,4 +50,3 @@ disp('第一组为');
 FirstGroup
 disp('第二组为');
 SecondGroup
-FirstGroup
