@@ -56,7 +56,6 @@ for FlagTempExternal=NumberOfObject-1:-1:1
                 end
         end
 end
-% TransferMatrix
 
 %4.找出这些数字。
 FlagTempExternal=Capacity;
@@ -68,6 +67,7 @@ for FlagTemp=1:NumberOfObject-1
                 FlagTempExternal=FlagTempExternal-Weight(FlagTemp);
         end
 end
+
 if TransferMatrix(NumberOfObject,FlagTempExternal)==0
         ObjectState(NumberOfObject)=0;
 else
